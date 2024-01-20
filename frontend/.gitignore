@@ -1,0 +1,8 @@
+# React App .gitignore
+
+# Node.js
+node_modules/
+
+# Build artifacts
+/build/
+/dist/

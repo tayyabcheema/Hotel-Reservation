@@ -1,0 +1,13 @@
+# Root .gitignore
+
+**/node_modules/
+
+# General
+.DS_Store
+Thumbs.db
+
+# OS-specific files
+.desktop.ini
+
+# Temporary files
+*.log

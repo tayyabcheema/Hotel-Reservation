@@ -1,0 +1,11 @@
+# Express App .gitignore
+
+# Node.js
+node_modules/
+.env
+
+# Logs
+/logs/
+
+# Temporary files
+*.log
